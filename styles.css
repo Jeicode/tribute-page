@@ -1,0 +1,51 @@
+* {
+    font-family: sans-serif;
+  }
+  
+  #main h1, h2 {
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 50px 0 30px;
+    text-decoration: underline;
+  }
+  
+  .description {
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  
+  #image {
+    max-width: 100%;
+    margin: 10px auto;
+    display: block;
+  }
+  
+  #img-caption {
+    margin: 10px 0 40px;
+    text-align: center;
+    color: gray;
+  }
+  
+  h2 {
+    text-decoration: underline;
+    padding-bottom: 15px;
+  }
+  
+  ul {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 20px;
+  }
+  
+  ul li {
+      margin: 0 .75rem;
+      line-height: 2;
+  }
+  
+  .link {
+    font-size: 20px;
+    text-align: center;
+    margin: 30px 0 30px;
+  }
